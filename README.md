@@ -1,7 +1,8 @@
 # MyPortfolio
 this is my portfoilio
 
-# My work
-this is my work
+# Vs code
+this is from vs code
 
-# This is from online
+# Online
+this is from online
