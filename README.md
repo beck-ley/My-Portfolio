@@ -9,3 +9,8 @@ this is from online
 
 # different branch
 this is from a different branch
+
+~Hello~
+*Hello*
+_Hello_
+\hello
