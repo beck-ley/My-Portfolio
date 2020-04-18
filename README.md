@@ -11,6 +11,3 @@ this is from online
 this is from a different branch
 
 ~Hello~
-*Hello*
-_Hello_
-\hello
